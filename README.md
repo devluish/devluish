@@ -1,6 +1,5 @@
 
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ tackling exciting challenges with the power of technology! <br><br> Whether it's diving into the depths of Java for robust backend solutions, unleashing the magic of JavaScript for dynamic interactivity, or crafting beautiful HTML/CSS designs, I'm on a journey to conquer the tech world. As a junior developer and avid learner, I'm passionate about exploring new technologies and turning them into high-quality solutions. Today, I proudly wear the badge of a full-stack junior developer, with a focus on shaping the future of web development.</p>&nbsp;
  </div>
  
  &nbsp;
