@@ -1,54 +1,75 @@
+<h2 align="center">💻Hello, welcome to my GitHub💻<br>🎲DATA ENGINEERING🎲</h2>
 
-<p align="center">I ❤️ tackling exciting challenges with the power of technology! <br><br> Whether it's diving into the depths of Java for robust backend solutions, unleashing the magic of JavaScript for dynamic interactivity, or crafting beautiful HTML/CSS designs, I'm on a journey to conquer the tech world. As a junior developer and avid learner, I'm passionate about exploring new technologies and turning them into high-quality solutions. Today, I proudly wear the badge of a full-stack junior developer, with a focus on shaping the future of web development.</p>&nbsp;
- </div>
- 
- &nbsp;
- &nbsp;
- 
-## My Skills
+###
 
-#### Main Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<h3 align="center">It is necessary to believe that the dream is possible, that the sky is the limit, and that you, buddy, are unbeatable.<br><br>💪<br><br>Automations in Python: Experienced in creating efficient and scalable automations using Python.<br>System Development in Java: Proficient in building robust systems using Java.<br>Database Management: Skilled in designing, implementing, and managing databases.</h3>
 
+###
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevLuisH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevLuisH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&custom_title=Languagens" height="150" alt="languages graph"  />
+</div>
 
-#### Secondary Stack:
+###
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="35" alt="jupyter logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="35" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="35" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="35" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" alt="trello logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo"  />
+</div>
 
-#### Studying in this moment:
+###
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+<div align="center">
+  <a href="https://www.instagram.com/luish_guido/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/luis-henrique-oliveira-da-silva-8a6012132/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="im_guido" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="luis_unn@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-#### Databases:
+###
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+<br clear="both">
 
-#### Workstation Tools:
+<div align="center">
+  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d724075-c7ab-4f96-8ab9-34e5316d6618/df9ysbx-4ee21234-8a58-4a3f-8b79-1f9a1d840679.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkNzI0MDc1LWM3YWItNGY5Ni04YWI5LTM0ZTUzMTZkNjYxOFwvZGY5eXNieC00ZWUyMTIzNC04YTU4LTRhM2YtOGI3OS0xZjlhMWQ4NDA2NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xMBUzFHfLSryq3UMoM8gTH-bPbLQvFSsm1kiu-xLCtU"  />
+</div>
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+###
 
-&nbsp;
-&nbsp;
+<br clear="both">
 
-## Contacts:
+<img src="https://raw.githubusercontent.com/DevLuisH/DevLuisH/output/snake.svg" alt="Snake animation" />
 
-<div> 
-</a>
-<a href="https://www.linkedin.com/in/luis-henrique-oliveira-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+###
 
-</div>&nbsp;&nbsp;
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DevLuisH/count.svg?"  />
+</div>
+
+###
