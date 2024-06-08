@@ -62,12 +62,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DevLuisH/DevLuisH/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/DevLuisH/count.svg?"  />
 </div>
