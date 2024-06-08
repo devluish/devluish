@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevLuisH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DevLuisH&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevLuisH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&custom_title=Languagens" height="150" alt="languages graph"  />
 </div>
 
@@ -54,11 +54,13 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d724075-c7ab-4f96-8ab9-34e5316d6618/df9ysbx-4ee21234-8a58-4a3f-8b79-1f9a1d840679.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkNzI0MDc1LWM3YWItNGY5Ni04YWI5LTM0ZTUzMTZkNjYxOFwvZGY5eXNieC00ZWUyMTIzNC04YTU4LTRhM2YtOGI3OS0xZjlhMWQ4NDA2NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xMBUzFHfLSryq3UMoM8gTH-bPbLQvFSsm1kiu-xLCtU"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DevLuisH/DevLuisH/output/snake.svg" alt="Snake animation" />
 
 ###
 
