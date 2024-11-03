@@ -2,7 +2,13 @@
 
 ###
 
-<h3 align="center">It is necessary to believe that the dream is possible, that the sky is the limit, and that you, buddy, are unbeatable.<br><br>💪<br><br>Automations in Python: Experienced in creating efficient and scalable automations using Python.<br>System Development in Java: Proficient in building robust systems using Java.<br>Database Management: Skilled in designing, implementing, and managing databases.</h3>
+<h3 align="center">
+  It is necessary to believe that the dream is possible, that the sky is the limit, and that you, buddy, are unbeatable.<br><br>💪<br><br>
+  Mobile Development in Kotlin: Skilled in developing dynamic and efficient mobile applications with Kotlin.<br>
+  System Development in Java: Proficient in building robust systems using Java.<br>
+  Automation in Python: Experienced in creating efficient and scalable automations with Python.<br>
+  Database Management: Skilled in designing, implementing, and managing databases.
+</h3>
 
 ###
 
