@@ -12,10 +12,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevLuisH&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevLuisH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
-</div>
+
+
+
+
+
 
 ###
 
@@ -46,11 +47,20 @@
 ###
 
 
-
-
-
-
-
+<div align="center">
+  <a href="https://www.instagram.com/luish_guido/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/luis-henrique-oliveira-da-silva-8a6012132/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="im_guido" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="luis_unn@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
 
 ###
