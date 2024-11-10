@@ -62,9 +62,7 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d724075-c7ab-4f96-8ab9-34e5316d6618/df9ysbx-4ee21234-8a58-4a3f-8b79-1f9a1d840679.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkNzI0MDc1LWM3YWItNGY5Ni04YWI5LTM0ZTUzMTZkNjYxOFwvZGY5eXNieC00ZWUyMTIzNC04YTU4LTRhM2YtOGI3OS0xZjlhMWQ4NDA2NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xMBUzFHfLSryq3UMoM8gTH-bPbLQvFSsm1kiu-xLCtU"  />
-</div>
+
 
 ###
 
