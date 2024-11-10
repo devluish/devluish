@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevLuisH&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=devluish&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devluish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
 </div>
 
@@ -71,12 +71,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DevLuisH/DevLuisH/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devluish/devluish/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DevLuisH/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/devluish/count.svg?"  />
 </div>
 
 ###
