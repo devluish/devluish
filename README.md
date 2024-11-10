@@ -45,24 +45,19 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/luish_guido/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-henrique-oliveira-da-silva-8a6012132/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="im_guido" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-  <a href="luis_unn@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+
+
+
+
+
+
+
 
 ###
 
-
+<div align="center">
+  <img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d724075-c7ab-4f96-8ab9-34e5316d6618/df9ysbx-4ee21234-8a58-4a3f-8b79-1f9a1d840679.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkNzI0MDc1LWM3YWItNGY5Ni04YWI5LTM0ZTUzMTZkNjYxOFwvZGY5eXNieC00ZWUyMTIzNC04YTU4LTRhM2YtOGI3OS0xZjlhMWQ4NDA2NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xMBUzFHfLSryq3UMoM8gTH-bPbLQvFSsm1kiu-xLCtU"  />
+</div>
 
 ###
 
