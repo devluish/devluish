@@ -2,7 +2,10 @@
 
 ###
 
-<p align="center">My name is **Luis Henrique** and I'm a **Data Engineer** in progress, from São Paulo, Brazil 🇧🇷<br><br>📌 __"The biggest risk is not taking any risk." - Mark Zuckerberg__</p>
+<p align="center">
+  My name is <strong>Luis Henrique</strong> and I'm a <strong>Data Engineer</strong> in progress, from São Paulo, Brazil 🇧🇷<br><br>
+  📌 <em>"The biggest risk is not taking any risk." - Mark Zuckerberg</em>
+</p>
 
 ###
 
