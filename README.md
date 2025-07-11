@@ -1,16 +1,16 @@
-<h1 align="left">Hello, welcome to my GitHub</h1>
+<h1 align="center">Hello, welcome to my GitHub</h1>
 
 ###
 
-<p align="left">My name is Luis Henrique and I'm a Data Engineer in progress, from São Paulo, Brazil 🇧🇷<br><br>📌 "The biggest risk is not taking any risk." - Mark Zuckerberg</p>
+<p align="center">My name is Luis Henrique and I'm a Data Engineer in progress, from São Paulo, Brazil 🇧🇷<br><br>📌 "The biggest risk is not taking any risk." - Mark Zuckerberg</p>
 
 ###
 
-<h2 align="left">My Techs</h2>
+<h2 align="center">My Techs</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
@@ -33,11 +33,11 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/luis-henrique-oliveira-da-silva-8a6012132/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h2 align="center">My Stats</h2>
 
 ###
 
