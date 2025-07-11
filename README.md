@@ -26,6 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://www.alura.com.br/assets/img/podcasts/fiapcast-logo.1730889068.svg" height="40" alt="fiap logo"  />
+  
 </div>
 
 ###
