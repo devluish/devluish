@@ -54,11 +54,9 @@
 <h2 align="center">My Stats</h2>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devluish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=devluish&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devluish&radius=16&theme=high-contrast&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devluish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=devluish&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=6&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
