@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  My name is <strong>Luis Henrique</strong> and I'm a <strong>Backend Developer</strong> in progress, from São Paulo, Brazil 🇧🇷<br><br>
+  My name is <strong>Luis Henrique</strong> and I'm a <strong>Backend Developer</strong>, from São Paulo, Brazil 🇧🇷<br><br>
   📌 <em>"The biggest risk is not taking any risk." - Mark Zuckerberg</em>
 </p>
 
