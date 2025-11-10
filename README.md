@@ -1,52 +1,44 @@
-<h1 align="center">Hello, welcome to my GitHub</h1>
+<h1 align="left">👋Hello, welcome to my GitHub</h1>
 
 ###
 
-<p align="center">
-  My name is <strong>Luis Henrique</strong> and I'm a <strong>Backend Developer</strong>, from São Paulo, Brazil 🇧🇷<br><br>
-  📌 <em>"The biggest risk is not taking any risk." - Mark Zuckerberg</em>
-</p>
+<p align="left">My name is <strong>Luis Henrique</strong> and I'm a <strong>Backend Developer</strong>, from São Paulo, Brazil 🇧🇷<br><br><br>  📌 <em>"The biggest risk is not taking any risk." - Mark Zuckerberg</em></p>
 
 ###
 
-<h2 align="center">My Techs</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+<p align="left">✨ Creating bugs since 2023 (and fixing most of them)<br>📚 Currently learning Kotlin and leveling up my mobile dev skills<br>🎯 Goals: become a solid mobile developer and build solutions that truly help people<br>🎲 Fun fact: I train Brazilian Jiu-Jitsu and run mostly on coffee</p>
+
+###
+
+<h2 align="left">My Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://www.alura.com.br/assets/img/podcasts/fiapcast-logo.1730889068.svg" height="40" alt="fiap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
 ###
-
-<h2 align="center">Connect with me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/luis-henrique-oliveira-da-silva-8a6012132/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/luish_guido/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 
