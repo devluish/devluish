@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Luis Henrique</strong> and I'm a <strong>Backend Developer</strong>, from São Paulo, Brazil 🇧🇷<br><br><br>  📌 <em>"The biggest risk is not taking any risk." - Mark Zuckerberg</em></p>
+<p align="left">My name is <strong>Luis Henrique</strong> and I'm a <strong>Mobile Android Developer</strong>, from São Paulo, Brazil 🇧🇷<br><br><br>  📌 <em>"The biggest risk is not taking any risk." - Mark Zuckerberg</em></p>
 
 ###
 
