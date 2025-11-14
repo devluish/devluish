@@ -44,15 +44,6 @@
 
 <h2 align="center">My Stats</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devluish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devluish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=jolly&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devluish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devluish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
